@@ -4,6 +4,7 @@ module.exports = {
       { name: 'A' },
       { name: 'B' },
       { name: 'C' },
+      { name: 'D' },
     ]
   }
 }
